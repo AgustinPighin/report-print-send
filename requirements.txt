@@ -1,4 +1,4 @@
-pycups>=1.9.68
+pycups==1.9.74
 PyPDF2==1.18
 requests
 zpl2==1.2
